@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name                    = "mediumish-theme-jekyl"
+  spec.name                    = "mediumish-theme-jekyll"
   spec.version                 = "0.0.1"
   spec.authors                 = ["Sal", "WowThemes.net"]
 
